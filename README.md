@@ -1,5 +1,21 @@
-
-#！！！国外福利台
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/1184px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="ASIA",RTM 2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xdg99ZX.png" group-title="ASIA",TV3
+http://iptv.rent:8080/4tvd2a9bb/ypwa70xqkd/7756
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKbvIIp.png" group-title="ASIA", Astro Ria
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1705
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkOyCcz.png" group-title="ASIA", Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:0,MY: ASTRO RIA
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15891.ts
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="MALAYSIA",Drama Sangat
+https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qDdnZjsCeUi8iWNTJlTj_o)/dm/3/x6zvnex/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKbvIIp.png" group-title="ASIA", Astro Ria
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1705
 #EXTM3U
 #EXTINF:-1,ASTRO MALAYSIA Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
